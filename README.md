@@ -1,0 +1,2 @@
+# gitGitEx
+GitEx_outside
